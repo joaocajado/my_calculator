@@ -1,4 +1,5 @@
-# my_calculator
+# Calculator
+
 Welcome to my first calculator using python.  
 
 
